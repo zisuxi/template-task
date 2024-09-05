@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+.header-section {
+    text-align: center;
+    padding: 30px 0;
+    background-color: #fff;
+    margin-bottom: 20px;
+}
+.header-section h1 {
+    font-size: 36px;
+    color: #333;
+}
+.header-section p {
+    font-size: 18px;
+    color: #777;
+}
+ .custom-background {
+            background-color: rgba(37, 144, 102, 0.07);
+            padding: 20px;
+            border-radius: 8px;
+        }
+        .centered-content {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+        .centered-content {
+            text-align: center;
+        }
+        .with-numbers {
+            list-style-type: decimal;
+        }
+        h3,h4{
+            margin-bottom: 30px;
+            margin-top: 20px;
+        }
+        .centered-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text-decoration,ul,li,a{
+     text-decoration: none;
+     color: black;
+}
